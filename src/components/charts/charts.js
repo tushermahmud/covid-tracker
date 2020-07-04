@@ -52,8 +52,8 @@ const Charts=({data,country})=>{
                     ],
                     data:[
                         data.confirmed,
-                        data.deaths,
-                        data.recovered
+                        data.recovered,
+                        data.deaths
                     ]
                 }]
             }}

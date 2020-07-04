@@ -37,7 +37,7 @@ class App extends React.Component{
         return (
             <div className={styles.container}>
                 <img
-                    style={{width:"150px",height:"55px",display:"table",margin:"auto",padding:"20px 0px"}}
+                    style={{width:"350px",height:"auto",display:"table",margin:"auto",padding:"20px 0px"}}
                     src={MyImage}
                     alt=""/>
                 <Cards data={data}/>
