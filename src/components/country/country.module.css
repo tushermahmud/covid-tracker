@@ -1,0 +1,13 @@
+.fromControl{
+    width: 400px;
+    display: flex !important;
+    margin: 50px auto !important;
+}
+.selectCountries {
+    padding-right: 24px;
+    /* padding-top: 30px; */
+}
+.MuiNativeSelect-select {
+    padding-right: 24px !important;
+    padding-left: 20px !important;
+}
